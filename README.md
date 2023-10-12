@@ -1,8 +1,6 @@
 # 💫About Me :
 🤖 I’m Minh Quân.
-
 🌱 I’m currently learning Computet Science at HUST (Hanoi University of Sience and Technology).
-
 💬 Inch by inch everything’s a cinch 😉
 
 # 💻Tech Stack
